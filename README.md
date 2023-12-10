@@ -2,7 +2,7 @@
   <h3 align="center">Smoofy19</h3>
   
   <p align="center">
-    Hi, I'm Smoofy, a java developer from Germany👋 
+    Hi, I'm Smoofy, a developer from Germany👋 
     <br>
     Currently I'm learning Python and Kotlin.
   </p>
