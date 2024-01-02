@@ -17,7 +17,6 @@
 
 ### Programms  
 <div align="center">  
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell"         height="50" /></a>  
   <a href="https://www.jetbrains.com/de-de/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  /></a>
   <a href="https://www.jetbrains.com/de-de/phpstorm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png"      height="50" alt="phpstorm logo"  /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  /></a>
