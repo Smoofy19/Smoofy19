@@ -13,9 +13,9 @@
 
 <h2></h2>
 
-<table align="center"><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="50%">
 
-### Programms  
+<h3 align="center">Programms</h3>
 <div align="center">  
   <a href="https://www.jetbrains.com/de-de/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  /></a>
   <a href="https://www.jetbrains.com/de-de/phpstorm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png"      height="50" alt="phpstorm logo"  /></a>
@@ -25,9 +25,9 @@
   <a href="https://winscp.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WinSCP_6_Logo.png" height="50" alt="winscp logo"  /></a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
-### Languages and Tools  
+<h3 align="center">Languages and Tools</h3>
 <div align="center">  
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  /></a>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo"  /></a>
@@ -35,16 +35,9 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  /></a>
   <a href="https://gradle.org/" target="_blank"><img src="https://skillicons.dev/icons?i=gradle" height="50" alt="gradle logo"  /></a>
   <a href="https://maven.apache.org/" target="_blank"><img src="https://skillicons.dev/icons?i=maven" height="50" alt="maven logo"  /></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  /></a>
-  <a href="https://de.wikipedia.org/wiki/Linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  /></a>
-  <a href="https://www.debian.org/index.de.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo"  />  
-  </a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  /></a>
+    <a href="https://de.wikipedia.org/wiki/Linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  /></a>
+    <a href="https://www.debian.org/index.de.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo"        /></a>
 </div>
 
 </td></tr></table>  
