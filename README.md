@@ -19,7 +19,7 @@
 <div align="center">  
   <a href="https://www.jetbrains.com/de-de/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  /></a>
   <a href="https://www.jetbrains.com/de-de/pycharm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/640px-PyCharm_Icon.svg.png"      height="50" alt="pycharm logo"  /></a>
-  <a href="https://www.jetbrains.com/de-de/phpstorm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png"      height="50" alt="phpstorm logo"  /></a>
+  <a href="https://www.jetbrains.com/de-de/webstorm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/640px-WebStorm_Icon.png"      height="50" alt="webstorm logo"  /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  /></a>
   <a href="https://termius.com/" target="_blank"><img src="https://user-images.githubusercontent.com/92434610/137111602-71118494-37cb-46a7-870f-e80716f72286.png" height="50" alt="termius     logo"  /></a>
   <a href="https://www.putty.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="50" alt="putty logo"  /></a>
